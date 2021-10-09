@@ -1,10 +1,10 @@
 library ieee;
-use ieee.std_logic_1164.all;
+use ieee.std_logic_1164.all; -- standard signal package
 
-entity tb_logic_gate is
-end tb_logic_gate;
+entity logic_gate_tb is --
+end logic_gate_tb;
   
-architecture behavior of tb_logic_gate is 
+architecture behavior of logic_gate_tb is 
   component logic_gate
     port ( A, B, C: in std_logic;
           F: out std_logic);
