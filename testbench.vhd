@@ -27,6 +27,8 @@ begin
     -- Stimuli:
     A <= '0'; B <= '0'; C <= '0'; wait for 20 ns;
     A <= '1'; B <= '0'; C <= '1'; wait for 20 ns;
-    wait
+   
+    assert false report "Reached end of test";      
+    wait; -- wait forever effectively 
   end process;
 end;
