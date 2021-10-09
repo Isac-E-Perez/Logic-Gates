@@ -1,5 +1,6 @@
 library ieee;
-use ieee.std_logic_116.all; -- Though different standards are available, a common one is the IEEE std_logic_1164 that allows for the basic types we are using 
+use ieee.std_logic_116.all; -- Though different standards are available, 
+-- a common one is the IEEE std_logic_1164 that allows for the basic types we are using 
 
 entity logic_gate is -- Provides a method to abstract the functionality of the circuit description to a higher level  
   port ( A, B, C: in std_logic; -- is an identifier used to differentiate the various signals.
