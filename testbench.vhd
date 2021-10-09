@@ -7,7 +7,7 @@ end logic_gate_tb;
   
 architecture behavior of logic_gate_tb is -- inside the architecture I tell VHDL which components I will be going to use 
   component logic_gate
-    port ( A, B, C: in std_logic; -- both signs have to match for logic_gate and logic_gate_tb
+    port ( A, B, C: in std_logic; -- both signals have to match for logic_gate and logic_gate_tb
           F: out std_logic);
   end component;
   
@@ -20,7 +20,7 @@ signal C: std_logic := '0'; -- default value
 signal F: std_logic;
 
 begin
-  uut: logic_gate port map (A=>A, B=>B, C=>C, F=>F);
+  uut: logic_gate port map (A=>A, B=>B, C=>C, F=>F); -- connecting the "wire" to the unique input or output
   stim_proc: process -- Stimulus process
   begin 
     wait for 100 ns -- reset state
