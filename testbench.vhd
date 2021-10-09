@@ -5,9 +5,9 @@ entity logic_gate_tb is -- the entity block has no input or output signals
 -- going into or out of the testbench.
 end logic_gate_tb; 
   
-architecture behavior of logic_gate_tb is 
+architecture behavior of logic_gate_tb is -- inside the architecture I tell VHDL which components I will be going to use 
   component logic_gate
-    port ( A, B, C: in std_logic;
+    port ( A, B, C: in std_logic; -- both signs have to match for logic_gate and logic_gate_tb
           F: out std_logic);
   end component;
   
