@@ -1,8 +1,9 @@
 library ieee;
 use ieee.std_logic_1164.all; -- standard signal package
 
-entity logic_gate_tb is --
-end logic_gate_tb;
+entity logic_gate_tb is -- the entity block has no input or output signals 
+-- going into or out of the testbench.
+end logic_gate_tb; 
   
 architecture behavior of logic_gate_tb is 
   component logic_gate
