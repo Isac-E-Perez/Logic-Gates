@@ -31,4 +31,4 @@ begin
     assert false report "Reached end of test";      
     wait; -- wait forever effectively 
   end process;
-end;
+end behavior;
