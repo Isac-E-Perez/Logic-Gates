@@ -1,5 +1,5 @@
 library ieee;
-use ieee.std_logic_116.all;
+use ieee.std_logic_116.all; -- Though different standards are available, a common one is the IEEE std_logic_1164 that allos fro the basic types we are using 
 
 entity logic_gate is 
   port ( A, B, C: in std_logic;
