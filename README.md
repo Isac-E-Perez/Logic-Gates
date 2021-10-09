@@ -1,1 +1,3 @@
-# Logic-Gates-Project
+# Logic Gates Project
+
+### About
