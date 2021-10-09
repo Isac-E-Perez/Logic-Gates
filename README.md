@@ -12,7 +12,7 @@ The circuit diagram was made in Simulink and the following simulation is provide
 
 ### Results:
 
-In VHDL, A, B, and C are the inputs (*IN*), F is an output (*OUT*), and x and y are internal signals (*signal*) of my project.
+In VHDL, A, B, and C are the inputs (**IN**), F is an output (**OUT**), and x and y are internal signals (**signal**) of my project.
 
 **I/O's are specified here**
 
