@@ -16,4 +16,8 @@ In VHDL, A, B, and C are the inputs (*IN*), F is an output (*OUT*), and x and y 
 
 **I/O's are specified here**
 
-![Screen Shot 2021-10-09 at 5 43 49 PM](https://user-images.githubusercontent.com/89553126/136675472-4ed6d342-4a4d-4c3f-a131-0bba956cf020.png)
+![Screen Shot 2021-10-09 at 6 08 05 PM](https://user-images.githubusercontent.com/89553126/136675890-fe55b54a-6bb7-4d94-8720-ff9d8da27a6f.png)
+
+**Internal description of the logic circuit is specified here**
+
+![Screen Shot 2021-10-09 at 6 08 20 PM](https://user-images.githubusercontent.com/89553126/136675895-71543808-930c-4de5-af4d-97bd8f279e69.png)
