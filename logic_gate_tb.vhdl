@@ -23,7 +23,7 @@ begin
   uut: logic_gate port map (A=>A, B=>B, C=>C, F=>F); -- connecting the "wire" to the unique input or output
   stim_proc: process -- Stimulus process
   begin 
-    wait for 100 ns -- reset state
+    wait for 100 ns; -- reset state
     -- Stimuli:
     A <= '0'; B <= '0'; C <= '0'; wait for 20 ns;
     A <= '1'; B <= '0'; C <= '1'; wait for 20 ns;
