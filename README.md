@@ -16,7 +16,7 @@ In VHDL, *A*, *B*, and *C* are the inputs (**IN**), *F* is an output (**OUT**), 
 
 **I/O's are specified here (the circuit is specified using a Hardware Description Language)**
 
-![Screen Shot 2021-10-09 at 6 08 05 PM](https://user-images.githubusercontent.com/89553126/136675890-fe55b54a-6bb7-4d94-8720-ff9d8da27a6f.png)
+![1](https://user-images.githubusercontent.com/89553126/136717067-f39b3dd2-5d78-4117-972e-d609f563d255.PNG)
 
 **Internal description of the logic circuit is specified here**
 
