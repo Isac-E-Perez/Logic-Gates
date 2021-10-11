@@ -1,5 +1,8 @@
 # Logic Gates Project
 
+### Notes:
+If you use MinGW 32 bit (like I did), you would also need to use GTKWave 32 bit and GHDL 32 bit for the code to work on Windows.
+
 ### About:
 
 For this project, I created a logic circuit and used VHDL code to implement the following circuit whose output is *F*.  
