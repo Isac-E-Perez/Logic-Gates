@@ -31,3 +31,5 @@ The entity block has no input or output singals going into or out of the '*testb
 ![1](https://user-images.githubusercontent.com/89553126/136717353-3d1bf589-64d1-42f2-bb20-200de9efb4bf.PNG)
 
 ![2](https://user-images.githubusercontent.com/89553126/136717355-7d821521-c8d4-4cd6-a93d-722b928b9d3e.PNG)
+
+![Screen Shot 2021-10-09 at 5 23 07 PM](https://user-images.githubusercontent.com/89553126/136717443-d619f866-dc08-473e-ab0a-d1346c685c07.png)
