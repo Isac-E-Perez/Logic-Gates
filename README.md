@@ -24,7 +24,7 @@ In VHDL, *A*, *B*, and *C* are the inputs (**IN**), *F* is an output (**OUT**), 
 
 Afterwards, I worked on the behavioral (functional) simulation. Here, I will only verify the logical operation of the circuit. Stimuli is provided to the logic circuit, so I can verify the outputs behave as I expect. The VHDL file called '*testbench*' is where I specified the stimuli to the logic circuit 
 
-![Screen Shot 2021-10-09 at 6 54 14 PM](https://user-images.githubusercontent.com/89553126/136676633-999f5733-002c-4930-a12b-9dde6eb0dbd1.png)
+![1](https://user-images.githubusercontent.com/89553126/136717228-938fd731-41b7-4604-9a3d-55f34b71d4d7.PNG)
 
 The entity block has no input or output singals going into or out of the '*testbench*', which makes sense since '*testbench*' is a complete unit. The '*testbench*' will go ahead and send the signals to the logic circuit in which it will read back those signals. Afterwards, I could check out whether these signals are correct. Therefore, I don't need anything going into or out of the testbench. Additionally, a process was created so that I could deliver signals sequentially and not concurrenlty.
  
