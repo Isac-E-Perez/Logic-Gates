@@ -33,10 +33,10 @@ The entity block has no input or output singals going into or out of the '*testb
 
 Finally, I verified the unit outputted by using a waveform viewer. 
 
-**Test where the variables start at 0**
+**Test where the variables started at 0**
 ![1](https://user-images.githubusercontent.com/89553126/136717353-3d1bf589-64d1-42f2-bb20-200de9efb4bf.PNG)
 
-**Test where the variables are at a=1 and c=1**
+**Test where the variables started at a=1 and c=1**
 ![2](https://user-images.githubusercontent.com/89553126/136717355-7d821521-c8d4-4cd6-a93d-722b928b9d3e.PNG)
 
 **I also verified logic was correct with Simulink**
