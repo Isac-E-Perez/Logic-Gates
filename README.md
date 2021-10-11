@@ -37,7 +37,7 @@ Finally, I verified the unit outputted by using a waveform viewer.
 **Test where the variables started at 0**
 ![1](https://user-images.githubusercontent.com/89553126/136717353-3d1bf589-64d1-42f2-bb20-200de9efb4bf.PNG)
 
-**Test where the variables started at a=1 and c=1**
+**Test where the variables started at *A* = 1 and *C* = 1**
 ![2](https://user-images.githubusercontent.com/89553126/136717355-7d821521-c8d4-4cd6-a93d-722b928b9d3e.PNG)
 
 I also verified that the logic was correct with the digital design simulation.
