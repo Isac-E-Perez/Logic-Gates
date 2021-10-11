@@ -44,4 +44,4 @@ I also verified that the logic was correct with the digital design simulation.
 
 ![Screen Shot 2021-10-09 at 5 23 07 PM](https://user-images.githubusercontent.com/89553126/136717443-d619f866-dc08-473e-ab0a-d1346c685c07.png)
 
-I should be expectting a product of 0 for these two conditions therefore, I know my logic gate code is logically correct.
+I should be expectting a output of 0 for these two conditions therefore, I know my logic gate code is logically correct.
