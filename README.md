@@ -43,4 +43,4 @@ I also verified that the logic was correct with Simulink.
 
 ![Screen Shot 2021-10-09 at 5 23 07 PM](https://user-images.githubusercontent.com/89553126/136717443-d619f866-dc08-473e-ab0a-d1346c685c07.png)
 
-Therefore, I know that my logic gate code is logically correct.
+Therefore, I know my logic gate code is logically correct.
