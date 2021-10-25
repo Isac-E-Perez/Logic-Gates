@@ -30,7 +30,7 @@ Afterwards, I worked on the behavioral (functional) simulation. Here, I will onl
 
 ![1](https://user-images.githubusercontent.com/89553126/136717228-938fd731-41b7-4604-9a3d-55f34b71d4d7.PNG)
 
-The entity block has no input or output singals going into or out of the '*testbench*', which makes sense since '*testbench*' is a complete unit. The '*testbench*' will go ahead and send the signals to the logic circuit in which it will read back those signals. Afterwards, I could check out whether these signals are correct. Therefore, I don't need anything going into or out of the testbench. dditionally, the process statement is a concurrent statement which is constituted of sequential statements exclusively.
+The entity block has no input or output singals going into or out of the '*testbench*', which makes sense since '*testbench*' is a complete unit. The '*testbench*' will go ahead and send the signals to the logic circuit in which it will read back those signals. Afterwards, I could check out whether these signals are correct. Therefore, I don't need anything going into or out of the testbench. Additionally, the process statement is a concurrent statement which is constituted of sequential statements exclusively.
 
 Finally, I verified the unit outputted by using a waveform viewer. 
 
